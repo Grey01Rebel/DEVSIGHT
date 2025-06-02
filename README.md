@@ -1,0 +1,1 @@
+Hey there, this project - DEVSIGHT is one I hope to gain knowledge about Tailwind CSS. I will be updating this file after every progress I make.
